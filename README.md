@@ -14,7 +14,6 @@ Atualmente, expandindo para backend, visando papéis de Tech Lead ou Arquiteto d
 ![Vue.js](https://img.shields.io/badge/Vue.js-Pleno-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![RXJS](https://img.shields.io/badge/RXJS-Experiente-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Microfrontends](https://img.shields.io/badge/Microfrontends-Experiente-000000?style=for-the-badge&logo=webpack&logoColor=white)
 ![GitFlow](https://img.shields.io/badge/GitFlow-Proficiente-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Conhecimento-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
