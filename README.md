@@ -9,7 +9,7 @@ Atualmente, expandindo para backend, visando papéis de Tech Lead ou Arquiteto d
 ## 🛠️ Minhas Skills
 ![Angular](https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-Pleno-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-Pleno-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Microfrontends](https://img.shields.io/badge/Microfrontends-Experiente-000000?style=for-the-badge&logo=webpack&logoColor=white)
