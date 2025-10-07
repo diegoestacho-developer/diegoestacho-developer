@@ -23,7 +23,7 @@ Atualmente, expandindo para backend, visando papéis de Tech Lead ou Arquiteto d
 - **Princípios**: Separation of Concerns (SoC), Tipagem Estricta, Padrões de Codificação
 
 ## 📂 Projetos em Destaque
-(Em breve: Projetos full-stack! 🌟)
+(Em breve: Projetos frontend e full-stack! 🌟)
 
 ## 📊 Minhas Stats no GitHub
 <div align="center">
