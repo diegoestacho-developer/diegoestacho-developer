@@ -17,6 +17,7 @@ Atualmente, expandindo para backend, visando papéis de Tech Lead ou Arquiteto d
 ![SASS](https://img.shields.io/badge/SASS-Experiente-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Experiente-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Conhecimento-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Experiente-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Domínio**: Setor de Seguros (sinistros, apólices, propostas)
 - **Princípios**: Separation of Concerns (SoC), Tipagem Estricta, Padrões de Codificação
